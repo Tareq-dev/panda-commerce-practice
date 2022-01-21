@@ -1,0 +1,22 @@
+.bg-light-pink {
+  background-color: #fceae8;
+}
+.btn-pink {
+  background-color: #ff4b92;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  padding: 8px;
+}
+.price-color{
+     color: #ff4b92;
+}
+.categories{
+     background-color: #ffa500;
+     border-radius: 10px;
+}
+
+.subscribe{
+     background-color: #fceae8;
+
+}
